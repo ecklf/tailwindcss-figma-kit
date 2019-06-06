@@ -1,4 +1,13 @@
 # Figma Kit for TailwindCSS
-This repo will later contain the final project files. Feel free to use it for issues / request purposes for now.
 
-[Project Link](https://www.figma.com/file/GfrN3sUCM9gZYT6l5BLmG2/TailwindCSS-Figma?node-id=0%3A1)
+<p align="center">
+<a href='https://www.figma.com/file/GfrN3sUCM9gZYT6l5BLmG2/TailwindCSS-Figma?node-id=0%3A1'>
+<img height="150" width="auto" src="logo.svg" />
+</a>
+</p>
+
+<hr>
+
+**Click the Image to get to the Project**
+
+This repo will later contain the final project files. Feel free to use it for issues / request purposes for now.
