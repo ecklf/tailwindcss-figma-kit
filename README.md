@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href='https://www.figma.com/file/GfrN3sUCM9gZYT6l5BLmG2/TailwindCSS-Figma?node-id=0%3A1'>
-<img height="150" width="auto" src="logo.svg" />
+<img height="auto" width="auto" src="screen.png" />
 </a>
 </p>
 
