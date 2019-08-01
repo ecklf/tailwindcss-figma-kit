@@ -10,7 +10,7 @@
 
 ## Information
 
-**Click the Image to get to the Project**
+**Click the image above to get to the project**
 
 Alternatively this repo also contains a _periodically updated_ **.fig** file that can be imported into Figma.
 
@@ -22,67 +22,80 @@ Icons: [Heroicons UI by Steve Schoger](https://github.com/sschoger/heroicons-ui)
 
 ## Screenshots
 
-<!-- Colors -->
+### Colors
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-0.png" />
+    <img height="auto" width="auto" src="images/frame-0.png" />
 </p>
 
-<!-- Typography -->
+### Typography
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-1.png" />
+    <img height="auto" width="auto" src="images/frame-1.png" />
 </p>
 
-<!-- Alerts -->
+### Alerts
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-9.png" />
+    <img height="auto" width="auto" src="images/frame-9.png" />
 </p>
 
-<!-- Buttons -->
+### Buttons
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-7.png" />
+    <img height="auto" width="auto" src="images/frame-7.png" />
 </p>
 
-<!-- Pill -->
+### Pills
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-11.png" />
+    <img height="auto" width="auto" src="images/frame-11.png" />
 </p>
 
-<!-- Cards -->
+### Cards
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-12.png" />
+    <img height="auto" width="auto" src="images/frame-12.png" />
 </p>
 
-<!-- Forms -->
+### Forms
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-8.png" />
+    <img height="auto" width="auto" src="images/frame-8.png" />
 </p>
 
-<!-- Navigation -->
+### Navigation
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-3.png" />
+    <img height="auto" width="auto" src="images/frame-3.png" />
 </p>
 
-<!-- Icons -->
+### Icons
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-2.png" />
+    <img height="auto" width="auto" src="images/frame-2.png" />
 </p>
 
-<!-- Shadows -->
+### Shadows
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-4.png" />
+    <img height="auto" width="auto" src="images/frame-4.png" />
 </p>
 
-<!-- Container -->
+### Container
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-6.png" />
+    <img height="auto" width="auto" src="images/frame-6.png" />
 </p>
 
-<!-- Spacing -->
+### Spacing
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-5.png" />
+    <img height="auto" width="auto" src="images/frame-5.png" />
 </p>
 
-<!-- Grid -->
+### Grid
+
 <p align="center">
-    <img style="margin-bottom: 1rem" height="auto" width="auto" src="images/frame-10.png" />
+    <img height="auto" width="auto" src="images/frame-10.png" />
 </p>
