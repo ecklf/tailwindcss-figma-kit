@@ -1,7 +1,7 @@
 # Figma Kit for TailwindCSS
 
 <p align="center">
-    <a align='center' href='https://www.figma.com/file/GfrN3sUCM9gZYT6l5BLmG2/TailwindCSS-Figma?node-id=0%3A1'>
+    <a align='center' href='https://www.figma.com/c/file/768809027799962739'>
     <img height="auto" width="auto" src="images/banner.png" />
     </a>
 </p>
