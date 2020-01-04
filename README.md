@@ -6,8 +6,6 @@
     </a>
 </p>
 
-<hr>
-
 ## Information
 
 **Click the banner or [here](https://www.figma.com/c/file/768809027799962739) to get to the project**
@@ -27,13 +25,9 @@ Need an easy way to import tailwind config styles? Check my [Figma Plugin](https
 
 Icons: [Heroicons UI by Steve Schoger](https://github.com/sschoger/heroicons-ui)
 
-<hr>
-
 ## Support for new projects? (optional)
 
 <a href="https://www.buymeacoffee.com/5WdhZyr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<hr>
 
 ## Screenshots
 
