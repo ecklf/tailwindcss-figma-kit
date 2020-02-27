@@ -17,17 +17,14 @@
 
 **Changelog (dd/mm/yy)**:
 
-- 04.01.20: Update to Auto Layout
+- 27.02.2020: Update Heroicons
+- 04.01.2020: Update to Auto Layout
 
-Alternatively this repo also contains a _periodically updated_ **.fig** file that can be imported into Figma.
+Alternatively this repo also contains a **.fig** file that can be imported into Figma.
 
 Need an easy way to import tailwind config styles? Check my [Figma Plugin](https://www.figma.com/c/plugin/738806869514947558/Tailwind-CSS)
 
-Icons: [Heroicons UI by Steve Schoger](https://github.com/sschoger/heroicons-ui)
-
-## Support for new projects? (optional)
-
-<a href="https://www.buymeacoffee.com/5WdhZyr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.com/refactoringui/heroicons)
 
 ## Screenshots
 
@@ -43,12 +40,6 @@ Icons: [Heroicons UI by Steve Schoger](https://github.com/sschoger/heroicons-ui)
     <img height="auto" width="auto" src="images/frame-1.png" />
 </p>
 
-### Shadows
-
-<p align="center">
-    <img height="auto" width="auto" src="images/frame-4.png" />
-</p>
-
 ### Buttons
 
 <p align="center">
@@ -58,13 +49,55 @@ Icons: [Heroicons UI by Steve Schoger](https://github.com/sschoger/heroicons-ui)
 ### Pills
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-11.png" />
+    <img height="auto" width="auto" src="images/frame-8.png" />
 </p>
 
 ### Input
 
 <p align="center">
+    <img height="auto" width="auto" src="images/frame-11.png" />
+</p>
+
+### Shadows
+
+<p align="center">
     <img height="auto" width="auto" src="images/frame-12.png" />
+</p>
+
+### Navigation
+
+<p align="center">
+    <img height="auto" width="auto" src="images/frame-4.png" />
+</p>
+
+### Forms
+
+<p align="center">
+    <img height="auto" width="auto" src="images/frame-9.png" />
+</p>
+
+### Alerts
+
+<p align="center">
+    <img height="auto" width="auto" src="images/frame-10.png" />
+</p>
+
+### Cards
+
+<p align="center">
+    <img height="auto" width="auto" src="images/frame-14.png" />
+</p>
+
+### Heroicons Outlined
+
+<p align="center">
+    <img height="auto" width="auto" src="images/frame-2.png" />
+</p>
+
+### Heroicons Solid
+
+<p align="center">
+    <img height="auto" width="auto" src="images/frame-3.png" />
 </p>
 
 ### Container
@@ -82,35 +115,5 @@ Icons: [Heroicons UI by Steve Schoger](https://github.com/sschoger/heroicons-ui)
 ### Grid
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-10.png" />
-</p>
-
-### Alerts
-
-<p align="center">
-    <img height="auto" width="auto" src="images/frame-9.png" />
-</p>
-
-### Cards
-
-<p align="center">
     <img height="auto" width="auto" src="images/frame-13.png" />
-</p>
-
-### Forms
-
-<p align="center">
-    <img height="auto" width="auto" src="images/frame-8.png" />
-</p>
-
-### Navigation
-
-<p align="center">
-    <img height="auto" width="auto" src="images/frame-3.png" />
-</p>
-
-### Icons
-
-<p align="center">
-    <img height="auto" width="auto" src="images/frame-2.png" />
 </p>
