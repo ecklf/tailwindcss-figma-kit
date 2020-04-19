@@ -17,6 +17,7 @@
 
 **Changelog (dd/mm/yy)**:
 
+- 12.04.2020: Fix line-height
 - 27.02.2020: Update Heroicons
 - 04.01.2020: Update to Auto Layout
 
