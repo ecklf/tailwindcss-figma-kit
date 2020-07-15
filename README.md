@@ -63,7 +63,7 @@ Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.c
 ### Shadows
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-12.png" />
+    <img height="auto" width="auto" src="images/frame-13.png" />
 </p>
 
 ### Navigation
@@ -117,5 +117,5 @@ Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.c
 ### Grid
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-13.png" />
+    <img height="auto" width="auto" src="images/frame-12.png" />
 </p>
