@@ -17,6 +17,7 @@
 
 **Changelog (dd/mm/yy)**:
 
+- 19.07.2020: Rename default colors, add TailwindUI colors
 - 25.04.2020: Update Heroicons
 - 12.04.2020: Fix line-height
 - 27.02.2020: Update Heroicons
