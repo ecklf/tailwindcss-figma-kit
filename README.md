@@ -17,6 +17,7 @@
 
 **Changelog (dd/mm/yy)**:
 
+- 10.08.2020: Update Heroicons
 - 30.07.2020: Add TailwindUI colors
 - 19.07.2020: Rename default colors
 - 25.04.2020: Update Heroicons
@@ -92,7 +93,7 @@ Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.c
     <img height="auto" width="auto" src="images/frame-14.png" />
 </p>
 
-### Heroicons Outlined
+### Heroicons Outline
 
 <p align="center">
     <img height="auto" width="auto" src="images/frame-2.png" />
