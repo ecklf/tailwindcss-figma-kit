@@ -2,7 +2,7 @@
 
 <p align="center">
     <a align='center' href='https://www.figma.com/c/file/768809027799962739'>
-    <img height="auto" width="auto" src="images/banner.png" />
+    <img height="150px" width="auto" src="images/banner.png" />
     </a>
 </p>
 
@@ -43,49 +43,49 @@ Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.c
 ### Typography
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-1.png" />
+    <img height="auto" width="auto" src="images/frame-4.png" />
 </p>
 
 ### Buttons
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-7.png" />
+    <img height="auto" width="auto" src="images/frame-5.png" />
 </p>
 
 ### Pills
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-8.png" />
+    <img height="auto" width="auto" src="images/frame-6.png" />
 </p>
 
 ### Input
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-12.png" />
+    <img height="auto" width="auto" src="images/frame-11.png" />
 </p>
 
 ### Shadows
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-13.png" />
+    <img height="auto" width="auto" src="images/frame-12.png" />
 </p>
 
 ### Navigation
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-4.png" />
+    <img height="auto" width="auto" src="images/frame-3.png" />
 </p>
 
 ### Forms
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-9.png" />
+    <img height="auto" width="auto" src="images/frame-11.png" />
 </p>
 
 ### Alerts
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-10.png" />
+    <img height="auto" width="auto" src="images/frame-8.png" />
 </p>
 
 ### Cards
@@ -97,29 +97,29 @@ Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.c
 ### Heroicons Outline
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-2.png" />
+    <img height="auto" width="auto" src="images/frame-1.png" />
 </p>
 
 ### Heroicons Solid
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-3.png" />
+    <img height="auto" width="auto" src="images/frame-2.png" />
 </p>
 
 ### Container
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-6.png" />
+    <img height="auto" width="auto" src="images/frame-10.png" />
 </p>
 
 ### Spacing
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-5.png" />
+    <img height="auto" width="auto" src="images/frame-9.png" />
 </p>
 
 ### Grid
 
 <p align="center">
-    <img height="auto" width="auto" src="images/frame-11.png" />
+    <img height="auto" width="auto" src="images/frame-13.png" />
 </p>
