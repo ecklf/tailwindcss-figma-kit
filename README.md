@@ -17,6 +17,7 @@
 
 **Changelog (dd/mm/yy)**:
 
+- 24.11.2020: Update to Tailwind v2 colors
 - 10.08.2020: Update Heroicons
 - 30.07.2020: Add TailwindUI colors
 - 19.07.2020: Rename default colors
