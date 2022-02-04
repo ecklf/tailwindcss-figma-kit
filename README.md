@@ -1,4 +1,4 @@
-# Figma Kit for TailwindCSS
+# Figma Kit for Tailwind CSS
 
 <p align="center">
     <a align='center' href='https://www.figma.com/c/file/768809027799962739'>
